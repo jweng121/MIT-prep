@@ -1,10 +1,11 @@
 import Image from "next/image";
 
-export default function Home() {
+export default async function Home() {
   return (
     <div>
-      <h1 className='font-bold'>WE ARE WINNING THIS!</h1>
+      <h1>We WINNING THIS!</h1>
     </div>
-      
+        
   );
 }
+ 
