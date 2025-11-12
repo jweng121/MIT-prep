@@ -1,152 +1,152 @@
 [
     {
         "Region":"Pacific Northwest",
-        "EV_Incentive_Amount_(USD)":5000,
-        "Percent change":4.0
+        "amount":5000,
+        "percent":4.0
     },
     {
         "Region":"California",
-        "EV_Incentive_Amount_(USD)":7500,
-        "Percent change":5.5
+        "amount":7500,
+        "percent":5.5
     },
     {
         "Region":"Southwest",
-        "EV_Incentive_Amount_(USD)":2000,
-        "Percent change":2.7
+        "amount":2000,
+        "percent":2.7
     },
     {
         "Region":"Rocky Mountains",
-        "EV_Incentive_Amount_(USD)":3000,
-        "Percent change":3.2
+        "amount":3000,
+        "percent":3.2
     },
     {
         "Region":"Midwest",
-        "EV_Incentive_Amount_(USD)":4000,
-        "Percent change":3.6
+        "amount":4000,
+        "percent":3.6
     },
     {
         "Region":"Great Lakes",
-        "EV_Incentive_Amount_(USD)":6000,
-        "Percent change":4.4
+        "amount":6000,
+        "percent":4.4
     },
     {
         "Region":"Southeast",
-        "EV_Incentive_Amount_(USD)":3500,
-        "Percent change":3.8
+        "amount":3500,
+        "percent":3.8
     },
     {
         "Region":"Mid-Atlantic",
-        "EV_Incentive_Amount_(USD)":7000,
-        "Percent change":5.7
+        "amount":7000,
+        "percent":5.7
     },
     {
         "Region":"New England",
-        "EV_Incentive_Amount_(USD)":8000,
-        "Percent change":6.5
+        "amount":8000,
+        "percent":6.5
     },
     {
         "Region":"Texas",
-        "EV_Incentive_Amount_(USD)":4500,
-        "Percent change":4.5
+        "amount":4500,
+        "percent":4.5
     },
     {
         "Region":"Prairies",
-        "EV_Incentive_Amount_(USD)":2500,
-        "Percent change":3.5
+        "amount":2500,
+        "percent":3.5
     },
     {
         "Region":"British Columbia",
-        "EV_Incentive_Amount_(USD)":9000,
-        "Percent change":6.9
+        "amount":9000,
+        "percent":6.9
     },
     {
         "Region":"Ontario",
-        "EV_Incentive_Amount_(USD)":8500,
-        "Percent change":6.1
+        "amount":8500,
+        "percent":6.1
     },
     {
         "Region":"Quebec",
-        "EV_Incentive_Amount_(USD)":9500,
-        "Percent change":7.4
+        "amount":9500,
+        "percent":7.4
     },
     {
         "Region":"Atlantic Canada",
-        "EV_Incentive_Amount_(USD)":5000,
-        "Percent change":4.3
+        "amount":5000,
+        "percent":4.3
     },
     {
         "Region":"Northern Territories",
-        "EV_Incentive_Amount_(USD)":4000,
-        "Percent change":2.9
+        "amount":4000,
+        "percent":2.9
     },
     {
         "Region":"Scandinavia",
-        "EV_Incentive_Amount_(USD)":10000,
-        "Percent change":7.8
+        "amount":10000,
+        "percent":7.8
     },
     {
         "Region":"Western Europe",
-        "EV_Incentive_Amount_(USD)":9500,
-        "Percent change":6.6
+        "amount":9500,
+        "percent":6.6
     },
     {
         "Region":"Eastern Europe",
-        "EV_Incentive_Amount_(USD)":7000,
-        "Percent change":6.1
+        "amount":7000,
+        "percent":6.1
     },
     {
         "Region":"South Asia",
-        "EV_Incentive_Amount_(USD)":1500,
-        "Percent change":2.7
+        "amount":1500,
+        "percent":2.7
     },
     {
         "Region":"East Asia",
-        "EV_Incentive_Amount_(USD)":8500,
-        "Percent change":6.7
+        "amount":8500,
+        "percent":6.7
     },
     {
         "Region":"Southeast Asia",
-        "EV_Incentive_Amount_(USD)":6000,
-        "Percent change":5.0
+        "amount":6000,
+        "percent":5.0
     },
     {
         "Region":"Sub-Saharan Africa",
-        "EV_Incentive_Amount_(USD)":2000,
-        "Percent change":3.3
+        "amount":2000,
+        "percent":3.3
     },
     {
         "Region":"North Africa",
-        "EV_Incentive_Amount_(USD)":2500,
-        "Percent change":3.6
+        "amount":2500,
+        "percent":3.6
     },
     {
         "Region":"Middle East",
-        "EV_Incentive_Amount_(USD)":5000,
-        "Percent change":4.6
+        "amount":5000,
+        "percent":4.6
     },
     {
         "Region":"South America",
-        "EV_Incentive_Amount_(USD)":3000,
-        "Percent change":2.8
+        "amount":3000,
+        "percent":2.8
     },
     {
         "Region":"Central America",
-        "EV_Incentive_Amount_(USD)":4000,
-        "Percent change":4.0
+        "amount":4000,
+        "percent":4.0
     },
     {
         "Region":"Oceania",
-        "EV_Incentive_Amount_(USD)":7000,
-        "Percent change":5.5
+        "amount":7000,
+        "percent":5.5
     },
     {
         "Region":"Caribbean",
-        "EV_Incentive_Amount_(USD)":5000,
-        "Percent change":4.4
+        "amount":5000,
+        "percent":4.4
     },
     {
         "Region":"Eastern Canada",
-        "EV_Incentive_Amount_(USD)":6500,
-        "Percent change":5.2
+        "amount":6500,
+        "percent":5.2
     }
 ]

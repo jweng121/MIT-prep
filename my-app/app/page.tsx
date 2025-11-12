@@ -1,14 +1,21 @@
+import { Yaldevi } from "next/font/google";
+import myData from "../../ev_incentives_comparison.json"
+
 export default async function Home() {
-  const tempData = await fetch("http://127.0.0.1:8000/ev-incentives");
-  const finalData = await tempData.json();
+  
+  
 
-
-
-  const xAxis = finalData.map((temp) => temp.x);
-  const yAxis = finalData.map((temp) => temp.y);
+  const xAxis = myData.map((temp) => temp.amount);
+  const yAxis = myData.map((temp) => temp.percent);
 
   return (
     <div>
+      <ul>
+        {myData.map((item, index) => (
+          <li key={index}>
+            Amount: {item.amount}, Percent: {item.percent}%
+        </li>))}
+      </ul>
       <h1 className="font-bold">WE ARE WINNING THIS!</h1>
       
     </div>
