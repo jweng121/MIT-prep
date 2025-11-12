@@ -1,0 +1,31 @@
+Region,EV_Incentive_Amount_(USD),Annual_Energy_Savings_(%)
+Pacific Northwest,5000,0.5
+California,7500,0.7
+Southwest,2000,0.3
+Rocky Mountains,3000,0.4
+Midwest,4000,0.5
+Great Lakes,6000,0.6
+Southeast,3500,0.5
+Mid-Atlantic,7000,0.8
+New England,8000,0.7
+Texas,4500,0.6
+Prairies,2500,0.4
+British Columbia,9000,0.9
+Ontario,8500,0.8
+Quebec,9500,1.0
+Atlantic Canada,5000,0.5
+Northern Territories,4000,0.3
+Scandinavia,10000,0.9
+Western Europe,9500,0.8
+Eastern Europe,7000,0.7
+South Asia,1500,0.2
+East Asia,8500,0.8
+Southeast Asia,6000,0.6
+Sub-Saharan Africa,2000,0.4
+North Africa,2500,0.5
+Middle East,5000,0.6
+South America,3000,0.3
+Central America,4000,0.5
+Oceania,7000,0.7
+Caribbean,5000,0.5
+Eastern Canada,6500,0.6

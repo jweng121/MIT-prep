@@ -3,7 +3,7 @@ export default async function Home() {
   const finalData = await tempData.json();
 
 
-  
+
   const xAxis = finalData.map((temp) => temp.x);
   const yAxis = finalData.map((temp) => temp.y);
 
@@ -14,3 +14,4 @@ export default async function Home() {
     </div>
   );
 }
+ 
